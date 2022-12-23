@@ -1,3 +1,8 @@
+# Jeremy's Answers to Rustlings
+So it looks like I did all of these Rustlings questions. While they are compiling, I really think I only got about 95% of them done the way they were supposed to be done. Not like I'm being graded, though.  
+
+Done for Rustlings release v5.2.1.
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
