@@ -46,11 +46,11 @@ impl From<&str> for Person {
             return Person::default();
         }
 
-        return match split[1].parse::<i32>() {
+        return match split[1].parse::<usize>() {
             Ok(i) => {
                 Person {
                     name: String::from(split[0]),
-                    age: i as usize
+                    age: i
                 }
             },
             Err(_) => {
